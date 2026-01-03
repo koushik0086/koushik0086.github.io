@@ -1,0 +1,11 @@
+.header{
+    background-color: skyblue;
+    color:white;
+}
+.footer{
+    background-color: orange;
+    color:black;
+}
+*{
+    margin:0px;
+}
