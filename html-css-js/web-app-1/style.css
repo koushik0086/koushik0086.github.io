@@ -1,0 +1,23 @@
+.l-btn{
+    border-radius:50px;
+    border-color:#FFAAB8;
+    color:black;
+    background-color : #A8DF8E;
+}
+.c-btn{
+    border-radius:50px;
+    border-color:#FFAAB8;
+    color:black;
+    background-color : #A8DF8E;
+}
+.l-box{
+    margin:auto;
+    margin-top:40px;
+    justify-content:center;
+    background-color:#F0FFDF;
+    border:3px solid #A8DF8E;
+    border-left:3px solid #FFAAB8;
+    border-radius:10px;
+    padding:20px;
+    width:300px;
+}
