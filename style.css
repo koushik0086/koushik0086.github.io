@@ -1,11 +1,39 @@
 .header{
+    padding:10px;
     background-color: skyblue;
+    color:white;
+    /* Moves to right */
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    /* Arranges in a row */
+    display:flex;
+}
+.menu li{
+    list-style-type: none;
+    margin-right: 50px;
+}
+.menu li a{
+    text-decoration: none;
     color:white;
 }
 .footer{
     background-color: orange;
-    color:black;
+    color:white;
 }
 *{
     margin:0px;
+}
+.container{
+    background-color: lightgrey;
+    display:flex;
+    gap:150px;
+    padding:20px;
+}
+.box{
+    margin-top:20px;
+    padding:10px;
+    border:2px solid black;
+    border-radius:30px;
 }
