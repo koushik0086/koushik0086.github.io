@@ -1,0 +1,13 @@
+.row{
+    background-color:rgb(216, 216, 216);
+    display:flex;
+    justify-content:space-around;
+    margin-bottom:10px;
+    gap:100px;
+    padding:20px;
+}
+
+.box{
+    border:2px solid rgb(9, 0, 0);
+    padding:20px;
+}
